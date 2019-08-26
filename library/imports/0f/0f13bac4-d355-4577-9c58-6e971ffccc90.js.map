@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../assets/Script/lib/assets/Script/lib/test.js"],"names":["module","exports","videoPath","type"],"mappings":";;;;;;AAAAA,OAAOC,OAAP,GAAiB;AACbC,eAAU,IADG;AAEbC,UAAK;AAFQ,CAAjB","file":"test.js","sourceRoot":"../../../../../assets/Script/lib","sourcesContent":["module.exports = {\n    videoPath:null,\n    type:null,\n};"]}

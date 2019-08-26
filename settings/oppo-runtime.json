@@ -1,0 +1,16 @@
+{
+  "certificatePath": "/Users/skyisland/Documents/备份/certificate.pem",
+  "deviceOrientation": "landscape",
+  "disabledMode": "",
+  "icon": "/Users/skyisland/Documents/Ã®«Úicon.png",
+  "logLevel": "log",
+  "minPlatformVersion": "1044",
+  "name": "台球之一杆全进",
+  "package": "com.skyisland.oppo.pool.nearme.gamecenter",
+  "privatePath": "/Users/skyisland/Documents/备份/private.pem",
+  "tinyPackageMode": true,
+  "tinyPackageServer": "https://cdn.landintheair.com/Billiards/new/032",
+  "useDebugKey": false,
+  "versionCode": "1",
+  "versionName": "1.0.0"
+}

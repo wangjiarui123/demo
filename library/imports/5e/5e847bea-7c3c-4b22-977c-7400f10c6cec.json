@@ -1,0 +1,149 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "guide.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Bfinger_1_170720": {
+      "__uuid__": "a23f17c8-a7fd-45cd-a48c-a725542d1253"
+    },
+    "Bfinger_2_170720": {
+      "__uuid__": "fd83944c-525f-413f-82ad-568ea5ea51bf"
+    },
+    "Bfinger_3_170720": {
+      "__uuid__": "9f63a7ff-c81a-495b-8611-1185d30df3b1"
+    },
+    "Bfinger_4_170720": {
+      "__uuid__": "0ac6af2a-2c61-4581-9c37-7c5ddbe472f9"
+    },
+    "Bshadow_1_170720": {
+      "__uuid__": "4c586d29-ce6f-4fee-ba8b-05a9280f5eda"
+    },
+    "Bshadow_2_170720": {
+      "__uuid__": "5f5be744-5007-4b42-ad93-d54ce5b7b127"
+    },
+    "Bshadow_3_170720": {
+      "__uuid__": "dc8eca92-e46d-4fba-8e43-bd49100e12fb"
+    },
+    "Bshadow_4_170720": {
+      "__uuid__": "0cc97790-2a2e-479e-8a90-74f4046fb7b5"
+    },
+    "click_eff_1": {
+      "__uuid__": "899ed236-55dd-42c6-9b97-3adb1b92aab7"
+    },
+    "click_eff_10": {
+      "__uuid__": "10843f75-05a1-455d-8560-612e78b90b33"
+    },
+    "click_eff_11": {
+      "__uuid__": "58f1c635-429c-46fa-b169-11a7df6e3caa"
+    },
+    "click_eff_12": {
+      "__uuid__": "9980c956-ef95-4205-aeba-cdb0aa6a9861"
+    },
+    "click_eff_13": {
+      "__uuid__": "95bb5474-2005-46f1-8f3f-1cf55c65706c"
+    },
+    "click_eff_14": {
+      "__uuid__": "e39ab987-82e1-4023-909c-bbbcf335827f"
+    },
+    "click_eff_15": {
+      "__uuid__": "1e9372b7-ade5-4bb6-93ac-4fd6e5914e18"
+    },
+    "click_eff_2": {
+      "__uuid__": "604ca519-38c2-4e73-844f-286b02cd83a5"
+    },
+    "click_eff_3": {
+      "__uuid__": "8043697f-aacf-41c9-92d9-da11cf9c2741"
+    },
+    "click_eff_4": {
+      "__uuid__": "49b59a8f-b696-4a32-875b-eca7db295083"
+    },
+    "click_eff_5": {
+      "__uuid__": "fdfac5e8-8da3-48b7-997f-6bbf1fe8f253"
+    },
+    "click_eff_6": {
+      "__uuid__": "6ec66f0d-3557-46f3-ae08-9f9563de7379"
+    },
+    "click_eff_7": {
+      "__uuid__": "7fe370f6-7749-4db3-8419-fd81edfdd6a1"
+    },
+    "click_eff_9": {
+      "__uuid__": "5c135dfb-c6b1-4569-bab5-418e4e84cb74"
+    },
+    "eff_novice1_170720": {
+      "__uuid__": "345613a5-683d-4ac3-9411-909dab8f9597"
+    },
+    "eff_novice2_170720": {
+      "__uuid__": "c671dc79-a29e-440f-9eda-4933c8606572"
+    },
+    "eff_novice3_170720": {
+      "__uuid__": "b7c99298-d08f-4e35-aa08-b9148d35e0d7"
+    },
+    "guide_2ball": {
+      "__uuid__": "6d0f0d08-9d92-4c86-8ba6-fec154e2a5e9"
+    },
+    "guide_8ball": {
+      "__uuid__": "707b3f39-e85e-435d-bc50-c2894672b123"
+    },
+    "guide_cue": {
+      "__uuid__": "835bbb0d-1a51-4452-bf70-9e0cb9466a25"
+    },
+    "guide_eff_novice1": {
+      "__uuid__": "ba4882d4-cb68-4e8d-98ed-e3150ee798e6"
+    },
+    "guide_eff_novice2": {
+      "__uuid__": "381f07e9-5e6a-4f8d-b3b5-f119ca64e01c"
+    },
+    "guide_finger_arrow": {
+      "__uuid__": "891cea8f-2e78-4a44-a044-7c36bde4a559"
+    },
+    "guide_first4_bg": {
+      "__uuid__": "2a73aeb4-7ec2-45b2-bf9a-584c333041af"
+    },
+    "guide_first5_bg": {
+      "__uuid__": "8e7c7708-68d4-4fc3-a5dd-ce7bcc75dca6"
+    },
+    "guide_line_1": {
+      "__uuid__": "434e9c65-2b78-4bbf-879b-e85263f9c75f"
+    },
+    "guide_line_2": {
+      "__uuid__": "8e0a89fb-bd3f-4625-bec0-922aacce09d9"
+    },
+    "guide_line_3": {
+      "__uuid__": "4022e6fd-7d34-4281-9370-1824915c1519"
+    },
+    "guide_line_sight_1": {
+      "__uuid__": "83cf216b-0658-46d0-8e91-6ed999487197"
+    },
+    "guide_line_sight_2": {
+      "__uuid__": "1895df33-62f2-424d-bead-e5a2c7133bdb"
+    },
+    "guide_line_sight_3": {
+      "__uuid__": "4ff19b80-30d9-41f7-b8a7-aeaf26bb1163"
+    },
+    "guide_mask_power": {
+      "__uuid__": "77825f4f-5f4b-49c6-a8ea-f65451e76fb4"
+    },
+    "guide_pouler1": {
+      "__uuid__": "f3ba8ded-dac3-47c3-aacb-bd1895bff542"
+    },
+    "guide_pouler2": {
+      "__uuid__": "cccd2390-4738-4303-9544-dc6207aa7587"
+    },
+    "guide_pouler3": {
+      "__uuid__": "05b8d326-2937-4d9e-b0fc-ad2078007ba6"
+    },
+    "guide_table_10": {
+      "__uuid__": "96c5288e-2c67-46b2-af04-69f75b5f810e"
+    },
+    "guide_table_2": {
+      "__uuid__": "af7b6f25-4d59-402f-ab3e-ad6b2df65f2a"
+    },
+    "guide_table_6": {
+      "__uuid__": "5af02dda-7326-4ab0-8ce4-e8641188bf11"
+    },
+    "guide_white ball": {
+      "__uuid__": "bdcf04ef-1b62-4037-a1af-2a7f93477acd"
+    }
+  }
+}

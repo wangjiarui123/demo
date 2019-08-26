@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guide_table_6",
+    "texture": "bc47ff30-3deb-410b-b773-8adb89dc5dea",
+    "atlas": "5e847bea-7c3c-4b22-977c-7400f10c6cec",
+    "rect": [
+      756,
+      407,
+      404,
+      264
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      404,
+      264
+    ],
+    "rotated": 1
+  }
+}

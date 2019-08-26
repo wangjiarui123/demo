@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "failure_bg_red",
+    "texture": "f6372e2a-45b1-4084-8fb9-85ecfa3d5fc2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      500,
+      316
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      500,
+      316
+    ]
+  }
+}

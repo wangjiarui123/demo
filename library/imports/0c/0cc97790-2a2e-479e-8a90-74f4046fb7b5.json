@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bshadow_4_170720",
+    "texture": "bc47ff30-3deb-410b-b773-8adb89dc5dea",
+    "atlas": "5e847bea-7c3c-4b22-977c-7400f10c6cec",
+    "rect": [
+      282,
+      460,
+      127,
+      112
+    ],
+    "offset": [
+      -3,
+      -10
+    ],
+    "originalSize": [
+      139,
+      168
+    ],
+    "rotated": 1
+  }
+}

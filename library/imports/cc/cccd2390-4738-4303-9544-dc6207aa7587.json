@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guide_pouler2",
+    "texture": "bc47ff30-3deb-410b-b773-8adb89dc5dea",
+    "atlas": "5e847bea-7c3c-4b22-977c-7400f10c6cec",
+    "rect": [
+      645,
+      747,
+      97,
+      102
+    ],
+    "offset": [
+      -1,
+      2
+    ],
+    "originalSize": [
+      109,
+      110
+    ],
+    "rotated": 1
+  }
+}

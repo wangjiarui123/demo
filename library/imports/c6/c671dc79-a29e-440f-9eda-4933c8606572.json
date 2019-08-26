@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff_novice2_170720",
+    "texture": "bc47ff30-3deb-410b-b773-8adb89dc5dea",
+    "atlas": "5e847bea-7c3c-4b22-977c-7400f10c6cec",
+    "rect": [
+      724,
+      40,
+      26,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      26
+    ]
+  }
+}

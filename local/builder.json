@@ -1,0 +1,19 @@
+{
+  "actualPlatform": "web-mobile",
+  "apiLevel": "android-23",
+  "appABIs": [],
+  "buildPath": "/Users/skyisland/Documents/lingshi",
+  "debug": false,
+  "embedWebDebugger": false,
+  "keystoreAlias": "AnySDK",
+  "keystoreAliasPassword": "kongdaoKONGDAO",
+  "keystorePassword": "kongdao123",
+  "keystorePath": "/Users/skyisland/Downloads/8 Pool Kingdom.keystore",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "link",
+  "useDebugKeystore": false,
+  "vsVersion": "auto"
+}

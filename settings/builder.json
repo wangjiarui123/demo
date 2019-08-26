@@ -1,0 +1,41 @@
+{
+  "appKey": "CD808D6C-879C-2A4A-1450-30B46BE0E96E",
+  "appSecret": "e2e9e61ecd55613f052be4bf1fa1e549",
+  "encryptJs": false,
+  "excludeScenes": [
+    "79459989-3acf-4212-a81f-81768309b12f",
+    "9738e7e2-e298-450f-9c60-a53c5dac432d"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.skyisland.pool8",
+  "privateKey": "5C101D1B17AEFF8ED3B979FD8E3588DD",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "startScene": "5397cc3b-4338-412a-953d-283cb646769e",
+  "title": "8-Ball-Kingdom",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://skyresources.leanapp.cn/billiards/1.0.6",
+    "appid": "wx0370e6415d88cd7b",
+    "orientation": "landscape"
+  },
+  "xxteaKey": "d4fc623b-guo-78",
+  "zipCompressJs": true
+}
